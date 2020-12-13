@@ -40,7 +40,6 @@ class App extends React.Component {
         this.setState({
           people: data
         });
-        console.log(data);
       },
       error: (err) => {
         console.log(err);
@@ -79,9 +78,7 @@ class App extends React.Component {
           </p>
           <input type="submit" onClick={this.addPerson}></input>
         </form>
-        <p>
-          <People people={this.state.people}/>
-        </p>
+        <People people={this.state.people}/>
       </div>
     );
   }
