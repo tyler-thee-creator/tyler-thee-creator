@@ -1,0 +1,11 @@
+body {
+  font-family: Sans-serif;
+}
+
+#name-label {
+  font-style: italic
+}
+
+#age-label {
+  font-style: italic
+}
