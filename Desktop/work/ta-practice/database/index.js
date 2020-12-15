@@ -1,3 +1,23 @@
+// const mongoose = require('mongoose');
+// mongoose.connect('mongodb://localhost/fetcher', { useMongoClient: true });
+// mongoose.promise = require('bluebird');
+
+// let personSchema = mongoose.Schema({
+//   id: Number,
+//   name: String,
+//   age: Number
+// });
+
+// let Person = mongoose.model('Person', personSchema);
+
+// let addPerson = () => {
+//   return new Promise((resolve, reject) => {
+//     Person.insertOne({}, (err, docs) => {
+//       //code
+//     });
+//   });
+// }
+
 const mysql = require('mysql');
 
 const connection = mysql.createConnection({

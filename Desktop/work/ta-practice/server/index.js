@@ -3,6 +3,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const port = 3000;
 const db = require('../database');
+const Person = db.Person;
 
 app.use(express.static(__dirname + '/../client/dist'));
 app.use(bodyParser.urlencoded({ extended: true}));
@@ -16,7 +17,7 @@ app.get('/data', (req, res) => {
       res.send(data);
       res.end();
     }
-  })
+  });
 });
 
 app.post('/data', (req, res) => {
