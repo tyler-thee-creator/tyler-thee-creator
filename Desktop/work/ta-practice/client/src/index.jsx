@@ -14,6 +14,7 @@ class App extends React.Component {
     this.updateName = this.updateName.bind(this);
     this.updateAge = this.updateAge.bind(this);
     this.addPerson = this.addPerson.bind(this);
+    this.getFakeData = this.getFakeData.bind(this);
   }
 
   updateName(e) {
@@ -48,6 +49,20 @@ class App extends React.Component {
     e.preventDefault();
   }
 
+  getFakeData(e) {
+    $.ajax({
+      method: 'GET',
+      url: '/fake_data',
+      success: (data) => {
+        console.log(data);
+      },
+      error: (err) => {
+        console.log(err);
+      }
+    });
+    e.preventDefault();
+  }
+
   componentDidMount() {
     $.ajax({
       method: 'GET',
@@ -67,6 +82,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>People Adder</h1>
+        <button onClick={this.getFakeData}>Get Fake Data</button>
         <form id="person-submit-form">
           <p>
             <label id="name-label" htmlFor="name">Enter your name: </label>

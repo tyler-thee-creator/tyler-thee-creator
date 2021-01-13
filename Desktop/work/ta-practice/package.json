@@ -26,6 +26,7 @@
     "babel": "^6.23.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "faker": "^5.1.0",
     "jquery": "^3.5.1",
     "mongoose": "^4.13.21",
     "mysql": "^2.18.1",

@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
+const faker = require('faker');
 const port = 3000;
 const db = require('../database');
 const Person = db.Person;
@@ -18,6 +19,11 @@ app.get('/data', (req, res) => {
       res.end();
     }
   });
+});
+
+app.get('/fake_data', (req, res) => {
+  let data = faker.lorem.paragraph();
+  res.send(data);
 });
 
 app.post('/data', (req, res) => {
