@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=29px>, I'm Tyler Brown!
+
+## How to reach me 📫
 
 <!--
 **tyler-thee-creator/tyler-thee-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
