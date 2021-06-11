@@ -6,7 +6,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
 
-## 🛠  &nbsp;Tech Stack
+# 🛠  &nbsp;Tech Stack
 
 [linkedin]: https://www.linkedin.com/in/tyler-s-brown/
 [gmail]: mailto:tyler.s.brown.93@gmail.com
