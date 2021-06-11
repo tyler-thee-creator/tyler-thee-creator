@@ -12,13 +12,13 @@ Full Stack Software Engineer
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![NginX](https://img.shields.io/badge/-NginX-05122A?style=flat&logo=NginX)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=F90)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=F90)\
 ![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=Splunk)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=Babel)&nbsp;
