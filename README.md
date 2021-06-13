@@ -27,7 +27,7 @@ Full Stack Software Engineer
 
 [linkedin]: https://www.linkedin.com/in/tyler-s-brown/
 [gmail]: mailto:tyler.s.brown.93@gmail.com
-[resume]: https://drive.google.com/file/d/1G1jMZYu9aASvKIeQW5VuWvn1OioSytdo/view?usp=sharing
+[resume]: https://drive.google.com/file/d/10Y4jAqMAZN4npyhEyQEHDz7dI7-jcFHR/view?usp=sharing
 <!--
 **tyler-thee-creator/tyler-thee-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
