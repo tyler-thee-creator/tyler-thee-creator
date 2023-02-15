@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=29px>, I'm Tyler Brown!
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=29px>, I'm Tyler!
 
 Full Stack Software Engineer
 
@@ -27,7 +27,7 @@ Full Stack Software Engineer
 
 [linkedin]: https://www.linkedin.com/in/tyler-s-brown/
 [gmail]: mailto:tyler.s.brown.93@gmail.com
-[resume]: https://drive.google.com/file/d/10Y4jAqMAZN4npyhEyQEHDz7dI7-jcFHR/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1xGwpCuTUtHTd0Ae6nWc2KmN5oRvZFJgn/view?usp=share_link
 
 <!--
 **tyler-thee-creator/tyler-thee-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
