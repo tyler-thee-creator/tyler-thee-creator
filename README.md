@@ -9,6 +9,7 @@ Full Stack Software Engineer
 # 🛠  &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,8 +18,10 @@ Full Stack Software Engineer
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=Auth0)&nbsp;
 ![NginX](https://img.shields.io/badge/-NginX-05122A?style=flat&logo=NginX)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=F90)\
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=Splunk)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=Babel)&nbsp;
@@ -28,19 +31,3 @@ Full Stack Software Engineer
 [linkedin]: https://www.linkedin.com/in/tyler-s-brown/
 [gmail]: mailto:tyler.s.brown.93@gmail.com
 [resume]: https://drive.google.com/file/d/1xGwpCuTUtHTd0Ae6nWc2KmN5oRvZFJgn/view?usp=share_link
-
-<!--
-**tyler-thee-creator/tyler-thee-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
