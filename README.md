@@ -30,4 +30,4 @@ Full Stack Software Engineer
 
 [linkedin]: https://www.linkedin.com/in/tyler-s-brown/
 [gmail]: mailto:tyler.s.brown.93@gmail.com
-[resume]: https://drive.google.com/file/d/1xGwpCuTUtHTd0Ae6nWc2KmN5oRvZFJgn/view?usp=share_link
+[resume]: https://drive.google.com/file/d/1qRxA41dYUQpDXHnv7tHYb_OGJxxYhZ-M/view?usp=sharing
